@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right,#4facfe,#00f2fe);
+    min-height:100vh;
+}
+
+.card{
+    max-width:700px;
+    margin:auto;
+    border-radius:20px;
+}
+
+textarea{
+    resize:none;
+    font-size:16px;
+}
+
+h1{
+    font-weight:bold;
+}
+
+.table{
+    background:white;
+}
